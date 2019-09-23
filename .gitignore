@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-.idea/*
+/idea/*
 /out
 *.iml
 .idea/vcs.xml
